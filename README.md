@@ -56,3 +56,24 @@ This repository contains all 5 Data Science & Analytics internship tasks complet
 ---
 
 ## Repository Structure
+├── Task-1-Iris-EDA/
+│   ├── iris_task1.ipynb
+│   └── raw_data/
+├── Task-2-Credit-Risk/
+│   ├── credit_risk_task2.ipynb
+│   └── raw_data/
+├── Task-3-Customer-Churn/
+│   ├── churn_task3.ipynb
+│   └── raw_data/
+├── Task-4-Insurance-Charges/
+│   ├── insurance_task4.ipynb
+│   └── raw_data/
+└── Task-5-Personal-Loan/
+├── loan_task5.ipynb
+└── raw_data/
+
+---
+
+**Intern:** Muneeb Ur Rehman  
+**Internship:** DevelopersHub Corporation — Data Science & Analytics  
+**Email:** mu181842@gmail.com
